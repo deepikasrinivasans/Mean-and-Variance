@@ -43,6 +43,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 Developed by : Deepika S
 Register number : 212222230028
 ```
+```
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
